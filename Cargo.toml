@@ -1,5 +1,9 @@
 [package]
+<<<<<<< HEAD
 name = "hello"
+=======
+name = "helloRust"
+>>>>>>> 416a5e1de66d07d3c5185b47319db362d6538e09
 version = "0.1.0"
 edition = "2021"
 
